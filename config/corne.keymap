@@ -85,7 +85,7 @@
 
         adjust_layer {
                 bindings = <
-                &kp LSHFT  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &trans        &trans        &bt BT_PRV   &bt BT_NXT   &bt BT_CLR  &bt BT_ON   &bt BT_OFF  &tog 4
+                &kp LSHFT  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &trans        &trans        &bt BT_PRV   &bt BT_NXT   &bt BT_CLR  &bt BT_CLR_ALL   &trans  &tog 4
                 &kp LCTRL  &trans        &trans        &trans        &trans        &trans        &trans       &trans       &trans      &trans      &trans      &trans
                 &kp LSHFT  &trans        &trans        &trans        &trans        &trans        &trans       &trans       &trans      &trans      &trans      &trans
                                         &kp LGUI     &mo 3         &kp SPACE       &kp RET       &mo 3        &kp RALT
